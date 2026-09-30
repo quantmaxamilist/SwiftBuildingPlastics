@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swiftbuildingplastics.co.uk/sitemap.xml
